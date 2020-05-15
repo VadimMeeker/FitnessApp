@@ -1,0 +1,60 @@
+{
+  "exercises": [
+    {
+      "number": 1,
+      "name": "Упражнение парсировано 1",
+      "description": "Описание 1",
+      "imgURL": "404",
+      "times": 1
+    },
+    {
+      "number": 2,
+      "name": "Упражнение парсировано 2",
+      "description": "Описание 2",
+      "imgURL": "404",
+      "times": 2
+    },
+    {
+      "number": 3,
+      "name": "Упражнение парсировано 3",
+      "description": "Описание 3",
+      "imgURL": "404",
+      "times": 3
+    },
+    {
+      "number": 4,
+      "name": "Упражнение парсировано 4",
+      "description": "Описание 4",
+      "imgURL": "404",
+      "times": 1
+    },
+    {
+      "number": 5,
+      "name": "Упражнение парсировано 5",
+      "description": "Описание 5",
+      "imgURL": "404",
+      "times": 5
+    },
+    {
+      "number": 6,
+      "name": "Упражнение парсировано 6",
+      "description": "Описание 6",
+      "imgURL": "404",
+      "times": 6
+    },
+    {
+      "number": 7,
+      "name": "Упражнение парсировано 7",
+      "description": "Описание 7",
+      "imgURL": "404",
+      "times": 7
+    },
+    {
+      "number": 8,
+      "name": "Упражнение парсировано 8",
+      "description": "Описание 8",
+      "imgURL": "404",
+      "times": 8
+    }
+    ]
+}
