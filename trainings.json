@@ -1,0 +1,11 @@
+{
+  "trainings": [
+    {
+      "name": "КРУГОВАЯ ТРЕНИРОВКА ЗА ПОЛЧАСА",
+      "imgURL": "https://the-challenger.ru/wp-content/uploads/2015/12/IMG_4020-800x571.jpg",
+      "time": "900",
+      "breakTime": "30",
+      "exerciseNumber":[1,2,3,4,5,6,7,8,9]
+    }
+    ]
+}
